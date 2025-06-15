@@ -1,11 +1,14 @@
 name: paginated
-description: "A new Flutter package project." #TODO: Add description
-version: 0.0.1
-homepage:
+description: A simple, unopinionated Flutter package that adds pagination to your existing scrollable widgets like ListView, GridView, SliverList, and SliverGrid.
+version: 1.0.0
+homepage: https://github.com/Kal-Elx/paginated
+repository: https://github.com/Kal-Elx/paginated
+issue_tracker: https://github.com/Kal-Elx/paginated/issues
+topics: [pagination, flutter, ui]
 
 environment:
   sdk: ^3.8.1
-  flutter: ">=1.17.0"
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
