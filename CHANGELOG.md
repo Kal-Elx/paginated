@@ -1,3 +1,3 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+* Initial release supporting pagination in ListView, GridView, SliverList and SliverGrid
